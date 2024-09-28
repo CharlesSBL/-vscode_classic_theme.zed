@@ -2,6 +2,6 @@ id = "vscode-classic-theme"
 name = "VSCode classic theme"
 version = "0.0.1"
 schema_version = 1
-authors = ["Karol Sobolewski <karl.sobolewski@outlook.com>"]
+authors = ["CharlesSBL <karl.sobolewski@outlook.com>"]
 description = "Classic vscode look"
 repository = "https://github.com/CharlesSBL/-vscode_classic_theme.zed"
