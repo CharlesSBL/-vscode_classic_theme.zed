@@ -1,6 +1,6 @@
 id = "vscode-classic-theme"
 name = "VSCode classic theme"
-version = "1.0.0"
+version = "0.0.1"
 schema_version = 1
 authors = ["CharlesSBL <karl.sobolewski@outlook.com>"]
 description = "Classic vscode theme"
